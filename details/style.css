@@ -1,0 +1,59 @@
+.hunt-left {
+    flex-direction: column;
+}
+
+.hunt-shop {
+    position: relative;
+    width: 70%;
+    margin-top: 25px;
+    box-shadow: 2px 8px 20px #ddd;
+    padding: 15px;
+}
+
+.detail-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+.hunt-right{
+    width: 100%;
+}
+.hunt-right .hunt-media {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    box-shadow: 5px 8px 25px #ddd;
+    padding: 15px 10px;
+}
+
+.hunt-media img {
+    max-width: 600px;
+    max-height: 450px;
+    width: 100%;
+}
+
+.list-group .hunt-item {
+    margin-bottom: 10px;
+}
+.hunt-item .hunt-title {
+    margin-bottom: 5px;
+}
+
+.hunt-item .description {
+    margin-bottom: 15px;
+    color: #909090;
+}
+.description .field-description {
+    color: black;
+}
+
+.list-group .hunt-title {
+    margin-bottom: 10px;
+    color: black;
+}
+
+
+
+
